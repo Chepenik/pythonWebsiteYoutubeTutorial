@@ -65,10 +65,9 @@ with st.container():
         st.subheader("30 min call or a customized personal website built")
         st.write(
             """
-                - For 21 USD worth of sats 30 minutes of my time is yours
-                - We can chat about Bitcoin or crack jokes
-                - For 100 USD worth of sats I will build you a customed personal website
-                - Use the contact form below to send me a screenshot of your magicwebstore reciept plus some times that work for you.
+                - For 21 USD worth of sats 30 minutes of my time is yours. We can chat about Bitcoin, tech, or just crack some jokes!
+                - For 100 USD worth of sats I will build you a customized personal website. 
+                - Use the contact form below to send me a screenshot of your magicwebstore receipt plus some times that work for you.
             """
         )
         st.markdown("[Chep's Magic Webstore Link](https://magicwebstore.xyz/index.html?pubkey=02b1a6c208420d3eb5a625aa8c79689e1dd4ea94f82286d06e1df7a05e2c3a482f&relays=%5B%22wss://nostrue.com%22,%22wss://relayable.org%22,%22wss://nostr.oxtr.dev%22%5D)")
