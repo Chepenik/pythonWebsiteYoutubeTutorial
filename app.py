@@ -49,9 +49,9 @@ I created this channel to share tips, insights, and occasional humor to help ind
 If you crave practical and entertaining videos covering technology, finance, and personal growth, subscribe to my channel! Likes and comments are appreciated, as they aid the algorithm in sharing my content with a wider audience. 
 """
         )
+        st.markdown("[My Youtube](https://www.youtube.com/@conorchepenik)")
     with right_column:
         stl.st_lottie(lottie_coding, height=500, key="coding")
-        st.markdown("[My Youtube](https://www.youtube.com/@conorchepenik)")
 
 #myservices
 with st.container():
