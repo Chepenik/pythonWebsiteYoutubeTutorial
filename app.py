@@ -51,6 +51,7 @@ If you crave practical and entertaining videos covering technology, finance, and
         )
     with right_column:
         stl.st_lottie(lottie_coding, height=500, key="coding")
+        st.markdown("[My Youtube](https://www.youtube.com/@conorchepenik)")
 
 #myservices
 with st.container():
